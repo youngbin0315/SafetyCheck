@@ -32,14 +32,14 @@
 
 ### 홈 화면
 
-![안심체크 홈 화면 시안](outputs/ansim-home.png)
+![안심체크 홈 화면 시안](ansim-home.png)
 
 ### 초기 설정 및 안심 연락처
 
 <table>
   <tr>
-    <td><img src="outputs/ansim-setup.png" alt="초기 설정 화면 시안" width="280"></td>
-    <td><img src="outputs/ansim-contacts.png" alt="안심 연락처 선택 화면 시안" width="280"></td>
+    <td><img src="ansim-setup.png" alt="초기 설정 화면 시안" width="280"></td>
+    <td><img src="ansim-contacts.png" alt="안심 연락처 선택 화면 시안" width="280"></td>
   </tr>
 </table>
 
@@ -47,8 +47,8 @@
 
 <table>
   <tr>
-    <td><img src="outputs/ansim-result.png" alt="문자 분석 결과 화면 시안" width="280"></td>
-    <td><img src="outputs/ansim-call.png" alt="전화 메모 확인 화면 시안" width="280"></td>
+    <td><img src="ansim-result.png" alt="문자 분석 결과 화면 시안" width="280"></td>
+    <td><img src="ansim-call.png" alt="전화 메모 확인 화면 시안" width="280"></td>
   </tr>
 </table>
 
@@ -56,8 +56,8 @@
 
 <table>
   <tr>
-    <td><img src="outputs/ansim-ad.png" alt="투자 광고 확인 화면 시안" width="280"></td>
-    <td><img src="outputs/ansim-family.png" alt="가족 도움 요청 화면 시안" width="280"></td>
+    <td><img src="ansim-ad.png" alt="투자 광고 확인 화면 시안" width="280"></td>
+    <td><img src="ansim-family.png" alt="가족 도움 요청 화면 시안" width="280"></td>
   </tr>
 </table>
 
@@ -98,7 +98,7 @@
 
 ## 설계 자료
 
-- [편집 가능한 발표 자료](outputs/ansim-check-app-design-v2.pptx)
+- [편집 가능한 발표 자료](ansim-check-app-design-v2.pptx)
 
 ## 참고 자료
 
